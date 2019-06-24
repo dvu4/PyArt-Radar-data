@@ -11,7 +11,5 @@ Obtain radar data from NEXRAD with Pyart
 
 ## Requirements
   - Python 3.6
-  - Folium
-  - Networkx
+  - Pyart
   - Numpy
-  - Pyproj
